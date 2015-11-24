@@ -1,0 +1,19 @@
+{
+	"author": "maddrake",
+	"name": "maddrake",
+	"version": "5.0.3",
+	"description": "Censors words out of text",
+	"main": "censortext",
+	"repository": {
+		"type": "git",
+		"url": "http://github.com/maddrake/example.git"
+	},
+	"keywords": [
+		"censor",
+		"words"
+	],
+	"dependencies": {},
+	"engines": {
+		"node": "*"
+	}
+}
